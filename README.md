@@ -63,7 +63,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.ishamashi.vercel.app/api?username=ishamashi&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ishamashi&show_icons=true&hide_border=true" />
 
 <!-- [website]: https://codeSTACKr.com -->
 [twitter]: https://twitter.com/ishamashi
