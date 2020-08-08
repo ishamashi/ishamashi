@@ -1,4 +1,4 @@
-### Hi there, I'm Icho Ishamashi - aka [Ishamashi][website] 👋
+### Hi there, I'm Icho Ishamashi - aka [Ishamashi] 👋
 
 ## I'm a Fullstack Developer!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
