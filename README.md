@@ -1,13 +1,13 @@
-![Icho Ishamashi's card name](https://cardivo.vercel.app/api?name=Icho%20Ishamashi&description=Hi,%20i%27m%20a%20fullstack%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/24196850?v=4&backgroundColor=%23ffffff&instagram=ishamashi&linkedin=Icho%20Ishamashi&github=ishamashi&twitter=ishamashi&site=&pattern=topography&colorPattern=%23000&fontColor=%23000&iconColor=%23000&opacity=0.5)
+![Icho Ishamashi's card name](https://cardivo.vercel.app/api?name=Icho%20Ishamashi&description=Hi,%20i%27m%20a%20fullstack%20web%20developer%20and%20i%27m%2020%23y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/24196850?v=4&backgroundColor=%23ffffff&instagram=ishamashi&linkedin=Icho%20Ishamashi&github=ishamashi&twitter=ishamashi&site=&pattern=topography&colorPattern=%23000&fontColor=%23000&iconColor=%23000&opacity=0.5)
 
 
-### Hi there, I'm Icho Ishamashi - aka [SleepyHead] 👋
+### Hi there, I'm Icho Ishamashi - a.k.a [SleepyHead] 👋
 
 ## I'm a Fullstack Developer!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmer
-- 🥅 2021 Goals: Create something BIG
+- 🥅 2024 Goals: Finish Techne.id & Folklore.asia
 - 💬 Ask me about anything [here]
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
