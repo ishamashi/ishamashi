@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmer
-- 🥅 2024 Goals: Finish Techne.id & Folklore.asia
+- 🥅 2025 Goals: Finish Techne.id & Alchecode.com
 - 💬 Ask me about anything [here]
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
