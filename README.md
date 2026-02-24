@@ -47,13 +47,13 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 <!-- YOUTUBE:START -->
-- [Playlist | Kelas Web Basic](https://www.youtube.com/playlist?list=PLXRP4aINQcfD5l-i7c_R4_RnYg6QaZNbA)
-- [Playlist | Kelas Web Lanjutan](https://www.youtube.com/playlist?list=PLXRP4aINQcfAjlb_rpJhrfZ_eysMvEnOB)
-- [Playlist | Kelas Web Atas](https://www.youtube.com/playlist?list=PLXRP4aINQcfCk8iHupiIJ3s6xqfd869-R)
-- [Snake Game](https://youtu.be/4fo9ErIOEfU)
-- [Pong Game](https://youtu.be/OupsBstK1Ys)
+<!-- - [Playlist | Kelas Web Basic](https://www.youtube.com/playlist?list=PLXRP4aINQcfD5l-i7c_R4_RnYg6QaZNbA) -->
+<!-- - [Playlist | Kelas Web Lanjutan](https://www.youtube.com/playlist?list=PLXRP4aINQcfAjlb_rpJhrfZ_eysMvEnOB) -->
+<!-- - [Playlist | Kelas Web Atas](https://www.youtube.com/playlist?list=PLXRP4aINQcfCk8iHupiIJ3s6xqfd869-R) -->
+<!-- - [Snake Game](https://youtu.be/4fo9ErIOEfU) -->
+<!-- - [Pong Game](https://youtu.be/OupsBstK1Ys) -->
 <!-- YOUTUBE:END -->
 
 <!-- --- -->
