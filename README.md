@@ -13,11 +13,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ishamashi | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ishamashi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ishamashi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ishamashi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ishamashi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ishamashi | Website" width="22px" src="https://raw.githubusercontent.com/ishamashi/portfolio/main/public/logo.png" />][website]
+[<img align="left" alt="Ishamashi | YouTube" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/youtube/youtube.png" />][youtube]
+[<img align="left" alt="Ishamashi | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png" />][twitter]
+[<img align="left" alt="Ishamashi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/linkedin/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ishamashi | Instagram" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" />][instagram]
 
 <br />
 
@@ -67,8 +67,8 @@
 <!-- - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl) -->
 <!-- BLOG-POST-LIST:END -->
 
----
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishamashi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Ishamashi's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishamashi&layout=compact&theme=buefy&hide_border=true" /> |
+<!-- ---
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishamashi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Ishamashi's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishamashi&layout=compact&theme=buefy&hide_border=true" /> | -->
 | ------------- | ------------- |
 
 [website]: https://ishamashi.github.io
