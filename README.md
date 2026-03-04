@@ -69,7 +69,7 @@
 
 <!-- ---
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishamashi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Ishamashi's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishamashi&layout=compact&theme=buefy&hide_border=true" /> | -->
-| ------------- | ------------- |
+<!-- | ------------- | ------------- | -->
 
 [website]: https://ishamashi.github.io
 [twitter]: https://twitter.com/ishamashi
